@@ -7,5 +7,5 @@ do
         filename=$(basename $f)
         basename="${filename%.*}"
         echo "Processing $f"
-        pandoc -s --toc -f markdown -t html5 -o $basename".html" $f
+        pandoc -s --toc --section-divs -f markdown -t html5 -o $basename".html" $f
 done
