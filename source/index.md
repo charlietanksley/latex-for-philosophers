@@ -2,10 +2,6 @@
 
 ## Introduction
 
-
-ADDED
-
-
 I think LaTeX is a fantastic tool for philosophers of all
 stripes---though it excels at typesetting the complicated formulas of
 logicians, it has distinct advantages for all philosophers. (I discuss
