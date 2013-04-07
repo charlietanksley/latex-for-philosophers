@@ -1,4 +1,4 @@
-# LaTeX for Philosophers (and other Humanitarians)
+% LaTeX for Philosophers (and other Humanitarians)
 
 ## Notice
 
