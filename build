@@ -1,0 +1,11 @@
+#!/bin/sh
+
+command -v pandoc >/dev/null 2>&1 || { echo "You need to install pandoc to build this site." >&2; exit 1; }
+
+for f in ./source/*.md
+do
+        filename=$(basename $f)
+        basename="${filename%.*}"
+        echo "Processing $f"
+        pandoc -f markdown -t html -o $basename".html" $f
+done
