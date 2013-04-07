@@ -36,11 +36,6 @@ The instructions you write in that plain text file are used in the steps between
 
 Writing a paper in a word processor is kind of like a packaged cupcake. All the formatting work is done for you. Writing a paper in LaTeX is kind of like baking a cake: you mix up raw ingredients and you don’t have anything very special--you have a sort of ugly plain text file full of code that, were you to print, would be confusing to someone who didn't know LaTeX. But just as you have to put a cake in the oven to produce delicious goodness, so too must you put your .tex file through a process to get out the typesetting-goodness that is a LaTeX document.
 
-a href='#page-navigation' Table of Contents
-// }}}
-// WHY LATEX {{{
-
-a name='why-latex'
 ## Why use LaTeX?
 
 I think this is a good question.  And to be honest, for some people there is no good answer.  Some people should just stick with a word processor (though if they use a Mac, they might consider something like [Mellel](http://www.redlers.com/), which is really great).  Though I hope to help lessen the learning curve of LaTeX with this guide, the fact remains that writing a document in LaTeX is not as easy as opening up a word processor and writing a paper.  But LaTeX does have its advantages.  For me, when comparing pros and cons, LaTeX wins out over word processors.
