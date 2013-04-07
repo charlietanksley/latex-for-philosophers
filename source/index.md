@@ -1,5 +1,16 @@
 # LaTeX for Philosophers (and other Humanitarians)
 
+## Notice
+
+This page is currently kind of messed up (as of April 6, 2013). Long
+story short: my web hosting ran out without me expecting it, so I
+quickly transfered the site here. But I haven't yet transfered the
+images over, and all the links are probably broken. Sorry about that.
+You can grab a PDF copy of this page, however, and that should still
+be intact. You can get that at
+[http://charlietanksley.github.io/latex-for-philosophers/latex-guide.pdf](http://charlietanksley.github.io/latex-for-philosophers/latex-guide.pdf).
+
+
 ## Introduction
 
 I think LaTeX is a fantastic tool for philosophers of all
